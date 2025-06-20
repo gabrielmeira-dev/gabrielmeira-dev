@@ -10,4 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
+## 📊 Linguagens mais usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&layout=compact&theme=github_dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 
