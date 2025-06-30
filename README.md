@@ -19,6 +19,6 @@ Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar
 </p>
 
 ## 📊 Linguagens mais usadas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmeira-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 
