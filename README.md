@@ -20,6 +20,6 @@ Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar
 </p>
 
 ## 📊 Linguagens mais usadas
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&layout=compact"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&layout=compact&theme=chartreuse-dark"/>
 
 
