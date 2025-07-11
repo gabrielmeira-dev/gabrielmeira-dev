@@ -23,6 +23,6 @@ Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&layout=compact&theme=chartreuse-dark"/>
 
  ## 📊 GitHub Status
- ![gabriel meira GitHub stats(https://github-readme-stats.vercel.app/api?username=gabrielmeira-dev&show_icons=true&theme=dark)
+ <img src="https://github-readme-stats.vercel.app/api?username=gabrielmeira-dev&show_icons=true&theme=dark"/>
 
 
