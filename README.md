@@ -21,8 +21,9 @@ Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar
 
 ## 📊 Linguagens mais usadas e GitHub Status
 <p align="center">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&layout=compact&theme=chartreuse-dark" />
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=gabrielmeira-dev&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&layout=compact&theme=chartreuse-dark" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmeira-dev&show_icons=true&theme=dark" />
 </p>
 
  
