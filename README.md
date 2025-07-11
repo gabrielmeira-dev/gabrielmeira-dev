@@ -8,7 +8,7 @@ Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar
 
 ## 🧰 Tecnologias e Ferramentas
 
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
