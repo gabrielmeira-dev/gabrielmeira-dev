@@ -19,10 +19,13 @@ Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
 </p>
 
-## 📊 Linguagens mais usadas
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&layout=compact&theme=chartreuse-dark"/>
+## 📊 Linguagens mais usadas e GitHub Status
+<div style="display: flex">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&layout=compact&theme=chartreuse-dark"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=gabrielmeira-dev&show_icons=true&theme=dark"/>
+</div>
 
- ## 📊 GitHub Status
- <img src="https://github-readme-stats.vercel.app/api?username=gabrielmeira-dev&show_icons=true&theme=dark"/>
+ 
+ 
 
 
