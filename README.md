@@ -20,7 +20,7 @@ Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar
 </p>
 
 ## 📊 Linguagens mais usadas e GitHub Status
-<div style="display: flex, justify-content: space-between">
+<div style="justify-content: space-between">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&layout=compact&theme=chartreuse-dark"/>
      <img src="https://github-readme-stats.vercel.app/api?username=gabrielmeira-dev&show_icons=true&theme=dark"/>
 </div>
