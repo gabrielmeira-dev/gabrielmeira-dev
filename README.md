@@ -8,7 +8,7 @@ Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar
 
 ## 🧰 Tecnologias e Ferramentas
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
@@ -20,7 +20,7 @@ Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar
 </p>
 
 ## 📊 Linguagens mais usadas e GitHub Status
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&layout=compact&theme=chartreuse-dark" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielmeira-dev&show_icons=true&theme=dark" />
