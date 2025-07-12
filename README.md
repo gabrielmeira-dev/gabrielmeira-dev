@@ -7,12 +7,7 @@
 <p>
 Atuo como Desenvolvedor Front-end na MJV Tecnologia e atualmente estou alocado no projeto Autocompara.
 Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar minhas hard skills e aplicar boas práticas de acessibilidade no desenvolvimento de interfaces.
-Fora do mundo da tecnologia tenho os seguintes hobbies:
-<ul>
-  <li>Academia</li>
-  <li>Leitura sobre investimentos e diário de um banana</li>
-  <li>Jogar com meus amigos</li>
-</ul>
+<br>
 </p>
 
 ## 🧰 Tecnologias e Ferramentas
