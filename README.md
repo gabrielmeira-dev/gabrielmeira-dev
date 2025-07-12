@@ -9,8 +9,6 @@ Atuo como Desenvolvedor Front-end na MJV Tecnologia e atualmente estou alocado n
 Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar minhas hard skills e aplicar boas práticas de acessibilidade no desenvolvimento de interfaces.
 </p>
 
-<br/>
-
 ## 🧰 Tecnologias e Ferramentas
 
 <p>
