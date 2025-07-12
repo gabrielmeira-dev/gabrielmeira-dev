@@ -21,8 +21,8 @@ Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
 </p>
-
 <br/>
+
 ## 📊 Linguagens mais usadas e GitHub Status
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&layout=compact&theme=chartreuse-dark"/>
