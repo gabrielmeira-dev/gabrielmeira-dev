@@ -1,9 +1,18 @@
 ## Hi there 👋
+<p>
+  Sejam muito bem-vindos ao meu mundinho de desenvolvimento 
+</p>
 
 ## 🧑‍💻 Sobre
 <p>
 Atuo como Desenvolvedor Front-end na MJV Tecnologia e atualmente estou alocado no projeto Autocompara.
 Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar minhas hard skills e aplicar boas práticas de acessibilidade no desenvolvimento de interfaces.
+Fora do mundo da tecnologia tenho os seguintes hobbies:
+<ul>
+  <li>Academia</li>
+  <li>Leitura sobre investimentos e diário de um banana</li>
+  <li>Jogar com meus amigos</li>
+</ul>
 </p>
 
 ## 🧰 Tecnologias e Ferramentas
@@ -21,9 +30,8 @@ Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar
 
 ## 📊 Linguagens mais usadas e GitHub Status
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&layout=compact&theme=chartreuse-dark" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmeira-dev&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&layout=compact&theme=chartreuse-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmeira-dev&show_icons=true&theme=dark" height ="165"/>
 </p>
 
  
