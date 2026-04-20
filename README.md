@@ -16,7 +16,7 @@ Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB)
 
 ## 📊 Linguagens mais usadas e GitHub Status
 <p>
