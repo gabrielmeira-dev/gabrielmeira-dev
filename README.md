@@ -49,7 +49,7 @@ CRUD de usuários com integração com API.
 - Integração com REST API  
 - Validações e manipulação de dados  
 
-👉 [Ver repositório](https://github.com/gabrielmeira-dev/gerenciador-usuarios)
+👉 [Ver repositório](https://github.com/gabrielmeira-dev/gerenciador-usuario)
 
 ---
 
