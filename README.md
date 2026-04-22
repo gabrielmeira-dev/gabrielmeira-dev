@@ -1,31 +1,77 @@
-## Hi there 👋
-<p>
-  Sejam muito bem-vindos ao meu mundinho de desenvolvimento 
-</p>
+# 👋 Olá! Eu sou Gabriel Meira
 
-## 🧑‍💻 Sobre
-<p>
-Atuo como Desenvolvedor Front-end na MJV Tecnologia.
-Tenho como objetivo me especializar ainda mais em Angular, com foco em aprimorar minhas hard skills e aplicar boas práticas de acessibilidade no desenvolvimento de interfaces.
-</p>
+💻 Frontend Developer | Angular | TypeScript | RxJS | REST API | CI/CD | Git  
 
-## 🧰 Tecnologias e Ferramentas
+Atuo no desenvolvimento e evolução de aplicações frontend, com experiência em projetos de grande porte no setor bancário e seguros.
 
+---
+
+## 🚀 Sobre mim
+
+- 💼 +4 anos de experiência com desenvolvimento frontend em Angular  
+- 🏦 Experiência em sistemas bancários (Safra e Santander)  
+- ⚙️ Atuação em produção (sustentação, melhorias e correções)  
+- 🧩 Foco em código limpo, reutilização e padronização  
+- ☁️ Experiência com AWS (S3) e CI/CD  
+
+---
+
+## 🛠️ Tecnologias
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=red)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?style=for-the-badge&logo=angular&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Linguagens mais usadas e GitHub Status
+---
+
+## 📌 Projetos em destaque
+
+### 💰 Gerenciador Financeiro
+Aplicação para controle de receitas e despesas com dashboard e visualização de dados.
+
+- Angular | TypeScript | RxJS  
+- CRUD completo  
+- Dashboard com gráficos  
+
+👉 [Ver repositório](https://github.com/seu-usuario/gerenciador-financeiro)
+
+---
+
+### 👥 Gerenciador de Usuários
+CRUD de usuários com integração com API.
+
+- Angular | TypeScript  
+- Integração com REST API  
+- Validações e manipulação de dados  
+
+👉 [Ver repositório](https://github.com/seu-usuario/gerenciador-usuarios)
+
+---
+
+## 📊 GitHub Stats
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&theme=chartreuse-dark" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmeira-dev&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark" />
 </p>
 
- 
- 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/seu-link  
+- 📍 Brasil  
+
+---
+
+⭐ Sempre aprendendo e evoluindo no desenvolvimento frontend
 
 
