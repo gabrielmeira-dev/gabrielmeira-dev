@@ -38,7 +38,7 @@ Aplicação para controle de receitas e despesas com dashboard e visualização 
 - CRUD completo  
 - Dashboard com gráficos  
 
-👉 [Ver repositório](https://github.com/seu-usuario/gerenciador-financeiro)
+👉 [Ver repositório](https://github.com/gabrielmeira-dev/gerenciador-financeiro)
 
 ---
 
@@ -49,25 +49,25 @@ CRUD de usuários com integração com API.
 - Integração com REST API  
 - Validações e manipulação de dados  
 
-👉 [Ver repositório](https://github.com/seu-usuario/gerenciador-usuarios)
+👉 [Ver repositório](https://github.com/gabrielmeira-dev/gerenciador-usuarios)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmeira-dev&show_icons=true&theme=dark" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeira-dev&layout=compact&theme=dark" />
 </p>
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/seu-link  
+- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-meira-dev  
 - 📍 Brasil  
 
 ---
