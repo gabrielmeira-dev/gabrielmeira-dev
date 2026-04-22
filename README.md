@@ -35,7 +35,7 @@ Atuo no desenvolvimento e evolução de aplicações frontend, com experiência 
 Aplicação para controle de receitas e despesas com dashboard e visualização de dados.
 
 - Angular | TypeScript | RxJS  
-- CRUD completo  
+- CRUD completo e Integração com REST API local  
 - Dashboard com gráficos  
 
 👉 [Ver repositório](https://github.com/gabrielmeira-dev/gerenciador-financeiro)
@@ -45,9 +45,8 @@ Aplicação para controle de receitas e despesas com dashboard e visualização 
 ### 👥 Gerenciador de Usuários
 CRUD de usuários com integração com API.
 
-- Angular | TypeScript  
-- Integração com REST API  
-- Validações e manipulação de dados  
+- Angular | TypeScript | RxJS  
+- CRUD completo e integração com REST API local 
 
 👉 [Ver repositório](https://github.com/gabrielmeira-dev/gerenciador-usuario)
 
